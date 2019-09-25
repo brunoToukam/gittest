@@ -1,0 +1,9 @@
+information about begenning a project on git
+first: write something in the README.md
+second: git init
+and then and for all add
+
+git add README.md
+git commit -m "commit name. exp first commit"
+git remote add origin https://github.com/brunoToukam/repository_name.git
+git push -u origin master
