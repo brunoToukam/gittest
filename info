@@ -1,3 +1,9 @@
+Pour configurer le git sur un nouveau linux
+sudo yum install git
+git config --global user.name "brunoToukam"
+git config --global user.email "brunotoukam@gmail.com"
+
+
 information about begenning a project on git
 first: write something in the README.md
 second: git init
